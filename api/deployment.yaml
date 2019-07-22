@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: api
-        image: bobcrutchley/bobby-api:latest
+        image: hmsbennett/pool_api:latest
         ports:
         - containerPort: 8080
 
